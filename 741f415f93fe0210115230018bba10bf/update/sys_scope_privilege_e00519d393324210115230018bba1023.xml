@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="INSERT_OR_UPDATE">
+        <operation>execute</operation>
+        <source_scope display_value="Medical App">741f415f93fe0210115230018bba10bf</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-20 05:52:01</sys_created_on>
+        <sys_id>e00519d393324210115230018bba1023</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ResourceSupport</sys_name>
+        <sys_package display_value="Medical App" source="x_1425817_medica_1">741f415f93fe0210115230018bba10bf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Medical App">741f415f93fe0210115230018bba10bf</sys_scope>
+        <sys_update_name>sys_scope_privilege_e00519d393324210115230018bba1023</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-20 05:52:01</sys_updated_on>
+        <target_name>ResourceSupport</target_name>
+        <target_scope display_value="Global">global</target_scope>
+        <target_type>sys_script_include</target_type>
+    </sys_scope_privilege>
+</record_update>

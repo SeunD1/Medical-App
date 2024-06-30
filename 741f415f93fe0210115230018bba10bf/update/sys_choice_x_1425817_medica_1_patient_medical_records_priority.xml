@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="priority" table="x_1425817_medica_1_patient_medical_records" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>priority</element>
+            <name>x_1425817_medica_1_patient_medical_records</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-21 15:24:18</sys_created_on>
+            <sys_id>1591ec7b93fe8210115230018bba10f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>priority</sys_name>
+            <sys_package display_value="Medical App" source="x_1425817_medica_1">741f415f93fe0210115230018bba10bf</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Medical App">741f415f93fe0210115230018bba10bf</sys_scope>
+            <sys_update_name>sys_choice_x_1425817_medica_1_patient_medical_records_priority</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-21 15:24:18</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>critical</label>
+            <language>en</language>
+            <name>x_1425817_medica_1_patient_medical_records</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-21 15:24:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9d91ec7b93fe8210115230018bba10f0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-21 15:24:18</sys_updated_on>
+            <value>critical</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Non critical</label>
+            <language>en</language>
+            <name>x_1425817_medica_1_patient_medical_records</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-21 15:24:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>659120bb93fe8210115230018bba1061</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-21 15:24:18</sys_updated_on>
+            <value>Non critical</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

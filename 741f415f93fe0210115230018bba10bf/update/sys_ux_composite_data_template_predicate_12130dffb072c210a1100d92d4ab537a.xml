@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_template_predicate">
+    <sys_ux_composite_data_template_predicate action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition/>
+        <custom_condition/>
+        <custom_field_list/>
+        <field_list>due_date,short_description,state,number</field_list>
+        <name>My Request - task predicate</name>
+        <order/>
+        <predicate_bundle display_value="My request - task bundle">9e130dff6f72c2100114b8e7e4a5937e</predicate_bundle>
+        <required_roles/>
+        <sys_class_name>sys_ux_composite_data_template_predicate</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-06-21 17:50:45</sys_created_on>
+        <sys_id>12130dffb072c210a1100d92d4ab537a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Request - task predicate</sys_name>
+        <sys_package display_value="Medical App" source="x_1425817_medica_1">741f415f93fe0210115230018bba10bf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Medical App">741f415f93fe0210115230018bba10bf</sys_scope>
+        <sys_update_name>sys_ux_composite_data_template_predicate_12130dffb072c210a1100d92d4ab537a</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-06-21 17:50:45</sys_updated_on>
+        <table>task</table>
+        <ux_template display_value="Item produced template">d6130dff5472c210c7426b98f57b417c</ux_template>
+    </sys_ux_composite_data_template_predicate>
+</record_update>

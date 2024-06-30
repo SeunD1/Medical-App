@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_screen_test_values">
+    <sys_uib_screen_test_values action="INSERT_OR_UPDATE">
+        <macroponent_config>{
+    "b47c9480075111106670d9630ad300fe": {
+        "inputParentSysId": "-1",
+        "inputParentTable": "incident",
+        "inputRecordGeneratorQuery": null,
+        "inputSelectedActivityContextId": null,
+        "inputSelectedPlaybookContextId": null,
+        "inputSelectedStageContextId": null
+    },
+    "029f04e053610110ac9bddeeff7b1294": {
+        "activityLogs": null,
+        "fields": null,
+        "inputSysId": "",
+        "inputTable": "incident",
+        "screen": null,
+        "selectedTabIndex": 0,
+        "userPrefs": null
+    }
+}</macroponent_config>
+        <screen display_value="Patient Record eHealth">9a130dff1b72c210714a0ecafce3156d</screen>
+        <sys_class_name>sys_uib_screen_test_values</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-23 18:27:08</sys_created_on>
+        <sys_id>1f9e97d093030210115230018bba10dc</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Medical App" source="x_1425817_medica_1">741f415f93fe0210115230018bba10bf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Medical App">741f415f93fe0210115230018bba10bf</sys_scope>
+        <sys_update_name>sys_uib_screen_test_values_1f9e97d093030210115230018bba10dc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-24 19:13:47</sys_updated_on>
+    </sys_uib_screen_test_values>
+</record_update>

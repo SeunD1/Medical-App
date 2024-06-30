@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_predicate_m2m_action_assignment">
+    <sys_ux_predicate_m2m_action_assignment action="INSERT_OR_UPDATE">
+        <declarative_action_assignment display_value="navigation">d46f400473211010c342d5fdbdf6a7cf</declarative_action_assignment>
+        <predicate display_value="My request - incident predicate">da130dffc672c2103cc2149159ff0078</predicate>
+        <sys_class_name>sys_ux_predicate_m2m_action_assignment</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-06-21 17:50:48</sys_created_on>
+        <sys_id>9a130dffb372c210a09231260a52a470</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Medical App" source="x_1425817_medica_1">741f415f93fe0210115230018bba10bf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Medical App">741f415f93fe0210115230018bba10bf</sys_scope>
+        <sys_update_name>sys_ux_predicate_m2m_action_assignment_9a130dffb372c210a09231260a52a470</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-06-21 17:50:48</sys_updated_on>
+    </sys_ux_predicate_m2m_action_assignment>
+</record_update>
