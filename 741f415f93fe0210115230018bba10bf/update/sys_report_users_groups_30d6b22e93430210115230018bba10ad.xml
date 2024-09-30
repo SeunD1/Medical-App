@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
     <sys_report_users_groups action="INSERT_OR_UPDATE">
         <group_id/>
-        <report_id display_value="">74d6b22e93430210115230018bba10ac</report_id>
+        <report_id display_value="Patients report">74d6b22e93430210115230018bba10ac</report_id>
         <sys_class_name>sys_report_users_groups</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-06-30 15:19:38</sys_created_on>

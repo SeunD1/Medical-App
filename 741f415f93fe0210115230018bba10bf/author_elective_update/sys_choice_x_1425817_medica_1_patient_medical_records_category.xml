@@ -6,7 +6,6 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2024-06-21 15:24:18</sys_created_on>
-            <sys_id>9591ec7b93fe8210115230018bba10ed</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>category</sys_name>
             <sys_package display_value="Medical App" source="x_1425817_medica_1">741f415f93fe0210115230018bba10bf</sys_package>
@@ -30,7 +29,6 @@
             <sys_created_on>2024-06-21 15:24:18</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>2d9120bb93fe8210115230018bba1065</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2024-06-21 15:24:18</sys_updated_on>
@@ -50,7 +48,6 @@
             <sys_created_on>2024-06-21 15:24:18</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>9991ec7b93fe8210115230018bba10f4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2024-06-21 15:24:18</sys_updated_on>
@@ -70,7 +67,6 @@
             <sys_created_on>2024-06-21 15:24:18</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>559120bb93fe8210115230018bba105b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2024-06-21 15:24:18</sys_updated_on>
@@ -90,7 +86,6 @@
             <sys_created_on>2024-06-21 15:24:18</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>5d91ec7b93fe8210115230018bba10ec</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2024-06-21 15:24:18</sys_updated_on>
@@ -110,7 +105,6 @@
             <sys_created_on>2024-06-21 15:24:18</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>299120bb93fe8210115230018bba105e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2024-06-21 15:24:18</sys_updated_on>

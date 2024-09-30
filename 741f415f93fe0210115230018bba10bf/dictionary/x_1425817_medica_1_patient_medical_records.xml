@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="a491ec7b93fe8210115230018bba1018" label="Patient Medical Records" max_length="40" name="x_1425817_medica_1_patient_medical_records" type="collection">
+        <element label="Age" max_length="40" name="age" type="integer"/>
+        <element attributes="encode_utf8=false" label="Assigned to" max_length="32" name="assigned_to" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Category" max_length="40" name="category" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Child Care" sequence="0" value="Child Care"/>
+                <element inactive_on_update="false" label="Dentist" sequence="0" value="Dentist"/>
+                <element inactive_on_update="false" label="Oncology" sequence="0" value="Oncology"/>
+                <element inactive_on_update="false" label="Optician" sequence="0" value="Optician"/>
+                <element inactive_on_update="false" label="Surgery" sequence="0" value="Surgery"/>
+            </choice>
+        </element>
+        <element label="Email Address" max_length="40" name="email_address" type="email"/>
+        <element attributes="edge_encryption_enabled=true" label="First Name" max_length="40" name="first_name" type="string"/>
+        <element label="Insurance" max_length="40" name="insurance" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Last Name" max_length="40" name="last_name" type="string"/>
+        <element attributes="encode_utf8=false" label="Location" max_length="32" name="location" reference="cmn_location" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" display="true" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Phone Number" max_length="40" name="phone_number" type="phone_number_e164"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Priority" max_length="40" name="priority" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="critical" sequence="0" value="critical"/>
+                <element inactive_on_update="false" label="Non critical" sequence="0" value="Non critical"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Short description" max_length="80" name="short_description" type="string"/>
+        <index name="index">
+            <element name="assigned_to"/>
+        </index>
+        <index name="index2">
+            <element name="location"/>
+        </index>
+    </element>
+</database>

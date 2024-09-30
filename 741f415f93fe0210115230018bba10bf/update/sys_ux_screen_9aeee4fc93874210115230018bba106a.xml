@@ -5,7 +5,7 @@
         <description/>
         <disable_auto_reflow>false</disable_auto_reflow>
         <event_mappings/>
-        <macroponent display_value="Focused Horizontal">92eee4fc93874210115230018bba1066</macroponent>
+        <macroponent display_value="Patient">92eee4fc93874210115230018bba1066</macroponent>
         <macroponent_config/>
         <name>Patient</name>
         <order>0</order>
